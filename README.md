@@ -14,7 +14,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinteres, creado puramente
 - **Google Fonts:** Parafuentes personalizadas.
 
   ### Vista Previa del Proyecto
-  (Pendiente)
+  ![Demo](/imagenes/pinterest-screen.PNG)
 
   ### Licencia
   Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
